@@ -1,5 +1,5 @@
 # SpringBootApp
-A Spring boot RESTful API for a simple doctor database
+A simple Spring boot RESTful API for doctor database
 
 
 Supported Endpoints:
