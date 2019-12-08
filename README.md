@@ -15,3 +15,7 @@ Supported Endpoints:
 
 
 (Note : If the app fails to start , change your default jdk to 1.8)
+
+
+# URL
+https://javaproject-humble-bonobo-ph.cfapps.io/api/doctors
