@@ -1,0 +1,5 @@
+com\javaProject\doctordetails\DoctorDetailsApplication.class
+com\javaProject\doctordetails\controller\DAO.class
+com\javaProject\doctordetails\controller\doctorController.class
+com\javaProject\doctordetails\repository\doctorRepository.class
+com\javaProject\doctordetails\model\doctor.class

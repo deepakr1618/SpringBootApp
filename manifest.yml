@@ -1,0 +1,8 @@
+---
+applications:
+- name: JavaProject
+  path: target\doctorDB.jar
+  memory: 1G
+  random-route: true
+  services:
+  - mysql
