@@ -1,6 +1,6 @@
 # SpringBootApp
 
-A simple Spring boot ### RESTful ### API for doctor database
+A simple Spring boot RESTful  API for doctor database
 
 
 #### URL 
