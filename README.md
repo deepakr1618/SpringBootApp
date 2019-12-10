@@ -20,6 +20,20 @@ Supported Endpoints:
 #### POST : 
 `/api/doctors `: To create or update existing data
 
+#### DELETE : 
+`/api/doctors `: To delete the doctor with the provided ID.
+
+
+Body :
+
+`{
+    "name": "Dr.Foo",
+    "special": "General Surgeon",
+    "salary": 78000,
+    "room": 23,
+    "degree": "MBBS,MS,Fiages Consultant - General Surgeon"
+}`
+
 
 (Note : If the app fails to start , change your default jdk to 1.8)
 
