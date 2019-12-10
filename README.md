@@ -1,6 +1,6 @@
 # SpringBootApp
 
-A simple Spring boot :tw-1f1f7: :tw-1f1ea: :tw-1f1f8: :tw-1f1f9:ful API for doctor database
+A simple Spring boot ### RESTful ### API for doctor database
 
 
 #### URL 
